@@ -1,0 +1,10 @@
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\bin\Debug\Sem2_Tree1.exe.config
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\bin\Debug\Sem2_Tree1.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\bin\Debug\Sem2_Tree1.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Sem2_Tree1\Sem2_Tree1\obj\Debug\Sem2_Tree1.TreeForm.resources
